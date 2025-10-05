@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616540584942",
+    "project_id": "tayyab-chat",
+    "storage_bucket": "tayyab-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616540584942:android:62460928f58c27feb16cff",
+        "android_client_info": {
+          "package_name": "com.example.tayyab_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMHqLU2rO-mROBcgcni6FUW1eM2VTA8gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
