@@ -2,7 +2,7 @@
 
 A stunning, real-time chat application built with Flutter and Firebase. This project showcases a modern "Neon Glassmorphism" user interface, providing a futuristic and visually appealing chat experience that is responsive on both mobile and desktop platforms.
 
-![Flutter Neon Chat Banner](https://user-images.githubusercontent.com/1993226/222956929-7988582f-8a03-4952-b88e-647d792b0c41.png)
+![Flutter Neon Chat Banner](https://github.com/MuhammadTayyabNasir/tayyab_chat/blob/main/assets/images/chat.png)
 *(Note: The banner above is a placeholder. You can create and add your own banner screenshot.)*
 
 ##  Screenshots
@@ -55,5 +55,5 @@ To get this project running on your local machine, follow these steps.
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flutter-neon-chat.git
-cd flutter-neon-chat
+git clone https://github.com/MuhammadTayyabNasir/tayyab_chat.git
+cd tayyab_chat
