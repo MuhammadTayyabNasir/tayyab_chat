@@ -3,13 +3,12 @@
 A stunning, real-time chat application built with Flutter and Firebase. This project showcases a modern "Neon Glassmorphism" user interface, providing a futuristic and visually appealing chat experience that is responsive on both mobile and desktop platforms.
 
 ![Flutter Neon Chat Banner](https://github.com/MuhammadTayyabNasir/tayyab_chat/blob/main/assets/images/chat.png)
-*(Note: The banner above is a placeholder. You can create and add your own banner screenshot.)*
 
 ##  Screenshots
 
 | Authentication Screen                                   | Chat Screen                                             |
 | ------------------------------------------------------- | ------------------------------------------------------- |
-|  |  |
+|  (https://github.com/MuhammadTayyabNasir/tayyab_chat/blob/main/assets/images/chat.png)|(https://github.com/MuhammadTayyabNasir/tayyab_chat/blob/main/assets/images/chat.png)  |
 
 ## ✨ Features
 
