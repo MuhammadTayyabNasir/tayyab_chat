@@ -8,7 +8,7 @@ A stunning, real-time chat application built with Flutter and Firebase. This pro
 
 | Authentication Screen                                   | Chat Screen                                             |
 | ------------------------------------------------------- | ------------------------------------------------------- |
-|  (https://github.com/MuhammadTayyabNasir/tayyab_chat/blob/main/assets/images/chat.png)|(https://github.com/MuhammadTayyabNasir/tayyab_chat/blob/main/assets/images/chat.png)  |
+|  ![](https://github.com/MuhammadTayyabNasir/tayyab_chat/blob/main/assets/images/chat.png)|![](https://github.com/MuhammadTayyabNasir/tayyab_chat/blob/main/assets/images/chat.png)  |
 
 ## ✨ Features
 
